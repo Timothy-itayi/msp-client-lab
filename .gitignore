@@ -1,0 +1,5 @@
+private/
+*.secret
+*.pfx
+.env
+reports/*.html
